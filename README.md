@@ -6,7 +6,7 @@ Self Project
 ## Installation
 1. Clone the repository:
     ```terminal
-    git clone https://github.com/vatsal1021/Library-Management-System.git
+    git clone https://github.com/krishag23/Library-Management-System.git
     ```
 2. Navigate to the project directory:
 
@@ -110,6 +110,6 @@ There was a conversation between admin1 and Student 1 about his dues, which can 
 - All the other Assumptions stated in the Implementation instructions.
 
 ## Author
-- Vatsal Mittal
+- Krish Agarwal
 - IITK 
-- 231127
+- 230570
